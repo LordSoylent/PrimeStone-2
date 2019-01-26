@@ -16,5 +16,6 @@ Detailed installation guides can be found here:
 
 For Windows:
 http://scripts.primestone.global/MasterNode_WIN_ENG.pdf
+
 For Ubuntu VPS:
 http://scripts.primestone.global/Masternode_SETUP_VPS_1.3.pdf
